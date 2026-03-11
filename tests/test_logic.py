@@ -1,5 +1,6 @@
 import pytest
 from src.logic.logic import Logica
+# tests para verificar las operaciones logicas basicas
 
 class TestLogica:
     def setup_method(self):
