@@ -1,5 +1,6 @@
 import pytest
 from src.stats.stats import Stats
+# tests de estadistica descriptiva
 
 class TestStats:
     def setup_method(self):
