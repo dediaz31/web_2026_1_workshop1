@@ -1,5 +1,6 @@
 import pytest
 from src.magic.magic import Magic
+# tests fibonacci primos y numeros especiales
 
 class TestMagic:
     def setup_method(self):
